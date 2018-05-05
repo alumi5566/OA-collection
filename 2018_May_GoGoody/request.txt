@@ -1,0 +1,6 @@
+Coding question
+
+Write a console program using Python, Java, or C++.  You need to debug/run it on your own computer.  Make sure your code compiles and runs as expected and copy/paste it below.   If you are applying for front end, you may also use HTML+Javascript, and post a link below to your web page.
+You need to code a single-digit arithmetic practicing program for K-2 elementary students. Requirements:  1. Randomly generate addition questions (e.g. 5+7=?) and wait for an answer from the user; 2. If the answer is correct, the program will ask a new question, otherwise, it asks the same question until the user answers it correctly; 3. Numbers in questions should be large than 0 and less than 10; i.e. maximal is 9+9, minimal is 1+1; 4. Repeat this process for N questions (you may decide N by yourself), and then show the total seconds used to answer these questions, along with top 5 questions with number of seconds answering it.  The top 5 questions are ranked by total number of seconds before the user answer it correctly; 5. Don't ask repeated questions in one session.  E.g. if "5+7=?" is asked before, it should not re-ask the same problem, but asking "7+5=?" is ok.      Bonus point: support single-digit subtraction questions. 
+
+
