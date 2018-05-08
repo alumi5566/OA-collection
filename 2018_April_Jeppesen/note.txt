@@ -1,0 +1,2 @@
+基本C++問題
+What is polynomial? Override? Overload?
