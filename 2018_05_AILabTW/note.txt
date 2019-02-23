@@ -1,5 +1,0 @@
-How to calculate the number of '1' bit for a given long long int?
-正常來說要O(n)，一個一個 mode 2
-
-可以divide in to 4 bit，建立4 bits 的table
-用查表O(1)*n/4解決
